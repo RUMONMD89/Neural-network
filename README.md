@@ -6,7 +6,7 @@
  人間と同じように学習をすることで(機械学習)
  推論ができるようになる(手書き文字認識など)。
 <img src="p1.png" height="400px" width ="700px">
-・IEPOCH
+### IEPOCH
 学習する回数を指定します。
 (IEPOCH=1は学習データを1回学習します。)
  ※python mnist4.py –e 10
