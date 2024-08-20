@@ -22,3 +22,4 @@ inetworkを増えるほど学習時間が増え、ともに正解率が増えま
 
 <img src="inetwork0.png" height="400px" width ="550px">　
 <img src="inetwork1.png" height="400px" width ="550px">　
+上の実行結果による、inetwork=0のとき正解数字０しか与えたなかった。しかし inetwork=1のとき正解数字が０、１、６が認識されました。
