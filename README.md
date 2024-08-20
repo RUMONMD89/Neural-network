@@ -19,6 +19,6 @@
  1にすると多層パーセプトロン、
 ### コメント
 inetworkを増えるほど学習時間が増え、ともに正解率が増えます。上に載せてある手下記文字認識された結果による、inetwork=0よりinetwork=1のとき正解率が上がりました。
-<img src="p1.png" height="400px" width ="550px">　
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/0ada903f-bcef-4d10-90a3-305eb01533be">
 
+<img src="inetwork0.png" height="400px" width ="550px">　
+<img src="inetwork1.png" height="400px" width ="550px">　
