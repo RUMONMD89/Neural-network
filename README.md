@@ -35,7 +35,7 @@ INETWORK=0は単層パーセプトロンを用いたシンプルな構造であ�
 <img src="inetwork0.png" height="400px" width ="550px">　
 <img src="inetwork1.png" height="400px" width ="550px">　
 
-INETWORK設定による手書き数字認識の結果の違い
+INETWORK設定による手書き数字認識の結果の違い..
 
 上記の実行結果から、INETWORKの設定に応じて認識される数字の種類と精度が大きく変わることがわかります。
 
